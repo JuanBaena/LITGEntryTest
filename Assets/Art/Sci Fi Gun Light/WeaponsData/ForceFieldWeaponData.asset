@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf673c040aa63d43b3c2cf9f58ca74f, type: 3}
+  m_Name: ForceFieldWeaponData
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 4560056663681600861, guid: 82bb50b4841656641be0648f6ea04e0d, type: 3}
+  muzzleFlash: {fileID: 2957657415812638113, guid: e4e348fcdfeb966468e594ab433a0078,
+    type: 3}
+  shootSound: {fileID: 8300000, guid: af66162561d2eed40ad49268cab318bb, type: 3}
+  fowardForce: 2
+  upwardForce: 0
+  magazineSize: 8
